@@ -1,4 +1,4 @@
-![Banner](github-header-bannerBWStarsNew.png)
+<--- ![Banner](github-header-bannerBWStarsNew.png) --->
 
 # Hi, I'm George
 
